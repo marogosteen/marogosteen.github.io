@@ -5,6 +5,25 @@
     <link>http://marogosteen.github.io/categories/</link>
     <description>Recent content in Categories on Marogosteen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://marogosteen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://marogosteen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>development</title>
+      <link>http://marogosteen.github.io/categories/development/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://marogosteen.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>note</title>
+      <link>http://marogosteen.github.io/categories/note/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://marogosteen.github.io/categories/note/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
